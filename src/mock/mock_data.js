@@ -34,7 +34,15 @@ export const mockData = {
       "icon": "📚",
       "name": "阅读",
       "order": 2,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1754634637402",
+          "name": "zlib",
+          "url": "https://1lib.sk/",
+          "description": "zlib",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "小咪咪导航"
