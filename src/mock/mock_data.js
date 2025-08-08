@@ -28,6 +28,13 @@ export const mockData = {
           "icon": "/sitelogo/www.52pojie.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1754634607371",
+      "icon": "📚",
+      "name": "阅读",
+      "order": 2,
+      "sites": []
     }
   ],
   "title": "小咪咪导航"
