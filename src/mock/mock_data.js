@@ -1,21 +1,6 @@
 export const mockData = {
   "categories": [
     {
-      "id": "my-favorites",
-      "name": "我的常用",
-      "icon": "💥",
-      "order": 0,
-      "sites": [
-        {
-          "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "/sitelogo/linux.do.ico"
-        }
-      ]
-    },
-    {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
