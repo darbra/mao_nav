@@ -41,6 +41,13 @@ export const mockData = {
           "url": "https://1lib.sk/",
           "description": "zlib",
           "icon": ""
+        },
+        {
+          "id": "site-1754634671546",
+          "name": "moe",
+          "url": "https://kox.moe/",
+          "description": "https://kox.moe/",
+          "icon": ""
         }
       ]
     }
