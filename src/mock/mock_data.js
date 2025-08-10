@@ -4,7 +4,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 3,
+      "order": 2,
       "sites": [
         {
           "id": "linuxdo",
@@ -33,7 +33,7 @@ export const mockData = {
       "id": "category-1754634607371",
       "icon": "📚",
       "name": "资源",
-      "order": 2,
+      "order": 1,
       "sites": [
         {
           "id": "site-1754634637402",
