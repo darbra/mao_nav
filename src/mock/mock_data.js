@@ -32,21 +32,21 @@ export const mockData = {
     {
       "id": "category-1754634607371",
       "icon": "📚",
-      "name": "阅读",
+      "name": "资源",
       "order": 2,
       "sites": [
         {
           "id": "site-1754634637402",
           "name": "zlib",
           "url": "https://1lib.sk/",
-          "description": "zlib",
+          "description": "下载图书",
           "icon": ""
         },
         {
           "id": "site-1754634671546",
           "name": "moe",
           "url": "https://kox.moe/",
-          "description": "https://kox.moe/",
+          "description": "下载漫画",
           "icon": ""
         }
       ]
