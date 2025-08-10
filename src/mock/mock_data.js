@@ -4,7 +4,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 1,
+      "order": 2,
       "sites": [
         {
           "id": "linuxdo",
@@ -33,7 +33,7 @@ export const mockData = {
       "id": "category-1754634607371",
       "icon": "📚",
       "name": "资源",
-      "order": 2,
+      "order": 1,
       "sites": [
         {
           "id": "site-1754634637402",
@@ -61,6 +61,13 @@ export const mockData = {
           "name": "libretv",
           "url": "http://47.123.4.186:33333/",
           "description": "看电影",
+          "icon": ""
+        },
+        {
+          "id": "site-1754828500194",
+          "name": "gying",
+          "url": "https://www.gying.in/",
+          "description": "观影",
           "icon": ""
         }
       ]
