@@ -55,6 +55,13 @@ export const mockData = {
           "url": "https://so.252035.xyz/",
           "description": "搜索资源",
           "icon": ""
+        },
+        {
+          "id": "site-1754828394567",
+          "name": "libretv",
+          "url": "http://47.123.4.186:33333/",
+          "description": "看电影",
+          "icon": ""
         }
       ]
     }
