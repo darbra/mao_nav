@@ -48,6 +48,13 @@ export const mockData = {
           "url": "https://kox.moe/",
           "description": "下载漫画",
           "icon": ""
+        },
+        {
+          "id": "site-1754828118580",
+          "name": "盘搜",
+          "url": "https://so.252035.xyz/",
+          "description": "搜索资源",
+          "icon": ""
         }
       ]
     }
