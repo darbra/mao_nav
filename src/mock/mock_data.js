@@ -33,6 +33,13 @@ export const mockData = {
           "url": "http://47.123.4.186:33333/",
           "description": "看电影",
           "icon": ""
+        },
+        {
+          "id": "site-1754828893021",
+          "name": "观影",
+          "url": "https://www.gying.in/",
+          "description": "观影",
+          "icon": ""
         }
       ]
     },
