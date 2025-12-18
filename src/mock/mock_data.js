@@ -71,6 +71,21 @@ export const mockData = {
           "icon": "/sitelogo/www.52pojie.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1766041785318",
+      "icon": "📁",
+      "name": "自搭",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1766041816561",
+          "name": "sbpan",
+          "url": "https://sbpan.996sb.top/",
+          "description": "sbpan",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "小咪咪导航"
