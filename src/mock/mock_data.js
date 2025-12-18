@@ -84,6 +84,13 @@ export const mockData = {
           "url": "https://sbpan.996sb.top/",
           "description": "sbpan",
           "icon": ""
+        },
+        {
+          "id": "site-1766041862516",
+          "name": "get_script",
+          "url": "https://sbtask.996sb.top/get_script",
+          "description": "get_script",
+          "icon": ""
         }
       ]
     }
