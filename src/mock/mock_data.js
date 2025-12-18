@@ -91,6 +91,20 @@ export const mockData = {
           "url": "https://sbtask.996sb.top/get_script",
           "description": "get_script",
           "icon": ""
+        },
+        {
+          "id": "site-1766041885388",
+          "name": "script_editor",
+          "url": "https://sbtask.996sb.top/script_editor",
+          "description": "script_editor",
+          "icon": ""
+        },
+        {
+          "id": "site-1766041907256",
+          "name": "st",
+          "url": "https://sbtask.996sb.top/st",
+          "description": "st",
+          "icon": ""
         }
       ]
     }
